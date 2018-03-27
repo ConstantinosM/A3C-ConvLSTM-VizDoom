@@ -6,3 +6,4 @@ Asynchronous Adantage Actor Critic [A3C](https://arxiv.org/abs/1602.01783) with 
 ## Dependencies
 - Python 3
 - [VizDoom](http://vizdoom.cs.put.edu.pl/)
+- Tensorflow
